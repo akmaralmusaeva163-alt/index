@@ -37,7 +37,7 @@ h1{
     margin-right: 30px;
 }
 .slider{
-    background-image: url(/maralym/акмарал.png);
+    background-image: url(./maralym/акмарал.png);
     height: 450px;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -280,6 +280,7 @@ footer{
    text-align: center;
     color: black;
 }
+
 
 
 
